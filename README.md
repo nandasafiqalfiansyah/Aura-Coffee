@@ -1,6 +1,13 @@
-# Aura Coffee ☕
+<h1 align="center">Coffe App Aura ☕</h1>
 
-Web app fullstack untuk pengalaman **cafe digital interaktif** dengan tema Aura Coffee: katalog menu, visual area duduk, checkout, dan **AI Barista** berbasis Gemini.
+<p align="center">
+  Web app fullstack untuk pengalaman <strong>cafe digital interaktif</strong>:
+  katalog menu, visual area duduk, checkout, dan <strong>AI Barista</strong> berbasis Gemini.
+</p>
+
+<p align="center">
+  <img src="./image-cofeeshop.png" alt="Preview Coffe App Aura" width="900" />
+</p>
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=000)
