@@ -1,0 +1,6 @@
+{
+  "name": "Kalandra Cafe Store",
+  "description": "An interactive 3D-styled coffee store and artisanal cafe experience with an AI Barista recommender and dynamic checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
